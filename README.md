@@ -391,11 +391,16 @@ La corriente es de 5 microamperios
 
 ![image](https://user-images.githubusercontent.com/116819100/204047510-1c57a585-877d-4286-9331-9245e8c77cd4.png)
 RESPUESTA
+![image](https://user-images.githubusercontent.com/116819100/204049552-415a6d74-f84b-42d0-80ff-801ddaddc723.png)
 
-![image](https://user-images.githubusercontent.com/116819100/204048830-81f26f0b-0632-4d57-8950-6e00bd1dfea9.png)
 
-49.Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4: (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
-![Uploading image.png…]()
+
+49.Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4: (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 
+
+![image](https://user-images.githubusercontent.com/116819100/204049480-bd38c7c4-85a2-4674-b29b-f106b08ea707.png)
+
+
+
 
 --------------------------------------------------------------------------------------------------------
 
